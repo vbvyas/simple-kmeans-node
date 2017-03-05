@@ -9,7 +9,7 @@ cd simple-kmeans-node
 
 ## Install
 ```sh
-npm install hea'
+npm install heap
 ```
 
 ## Run
