@@ -26,7 +26,7 @@ function kmeans(base, list, k) {
 
   //console.log(heap);
 
-  for (let i = 2; i < list.length; i++) {
+  for (let i = k; i < list.length; i++) {
     let top = heap.peek(),
       p = list[i];
     //console.log('top', top);
