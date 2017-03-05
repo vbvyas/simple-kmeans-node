@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vbvyas/simple-kmeans-node/issues"
   },
-  "homepage": "https://github.com/vbvyas/simple-kmeans-node#readme"
+  "homepage": "https://github.com/vbvyas/simple-kmeans-node#readme",
+  "dependencies": {
+    "heap": "^0.2.6"
+  }
 }
