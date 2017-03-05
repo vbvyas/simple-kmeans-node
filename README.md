@@ -3,7 +3,8 @@ A simple kmeans algorithm
 
 ## Clone
 ```sh
-git clone https://github.com/vbvyas/simple-kmeans-node.git & cd simple-kmeans-node
+git clone https://github.com/vbvyas/simple-kmeans-node.git
+cd simple-kmeans-node
 ```
 
 ## Install
