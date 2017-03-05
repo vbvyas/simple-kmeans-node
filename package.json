@@ -1,0 +1,23 @@
+{
+  "name": "simple-kmeans-node",
+  "version": "1.0.0",
+  "description": "A simple kmeans in node.js",
+  "main": "kmeans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbvyas/simple-kmeans-node.git"
+  },
+  "keywords": [
+    "kmeans",
+    "node"
+  ],
+  "author": "vbvyas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbvyas/simple-kmeans-node/issues"
+  },
+  "homepage": "https://github.com/vbvyas/simple-kmeans-node#readme"
+}
